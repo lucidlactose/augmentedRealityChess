@@ -1,4 +1,4 @@
-# augmentedReality
+# augmentedRealityChess
 
 This does not appear on my github so I cloned it and readded it to mine.
 
